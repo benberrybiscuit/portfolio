@@ -77,13 +77,13 @@ p {
 .p-large {
   font-weight: 700;
   font-size: 1.625em;
-  line-height: 0.625em;
+  line-height: 1.25em;
 }
 
 @media (max-width: 575.98px) {
   .p-large {
     font-size: 1.5em;
-    line-height: 0.5em;
+    line-height: 1.125em;
   }
 }
 
