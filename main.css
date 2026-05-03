@@ -46,7 +46,6 @@ h6 {
 h1.headline {
   font-size: 4.5em;
   line-height: 1em;
-  padding-bottom: 0.125em;
 }
 
 @media (max-width: 575.98px) {
